@@ -2,9 +2,9 @@
 
 Overview
 
-Welcome to my Game of Life java project. This is a game i made based on the orginal game of life grid game I have seen. It is a super cool thing and can have wonderful shapes and patterns. To play it make sure to run the whole folder and not just one file!
+Welcome to my Game of Life java project. This is a game i made based on the orginal game of life grid game I have seen. It is a super cool thing and can have wonderful shapes and patterns. You can enter different .TXT files and it while show some really cool patterns. But this isn't random there's some math to it. 
 
-To run each one either go to the link on the top of the file or if cloning jsut run each indivual file to play each game!
+To play it make sure to run the whole folder and not just one file!
 
 Contributions are welcome! To contribute:
 
